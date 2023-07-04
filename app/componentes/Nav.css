@@ -1,8 +1,3 @@
-.nav {
-    max-width: 1000px;
-    margin: 20px auto;
-}
-
 .nav-lista {
     display: flex;
     list-style: none;
