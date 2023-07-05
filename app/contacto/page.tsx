@@ -14,7 +14,7 @@ export default function Contacto() {
         <textarea name="comentario"></textarea>
       </form>
 
-      <form method="post" className="formulario">
+      <form action = "./contacto/gracias" method="post" className="formulario">
         <label>
           Nombre:
           <input type="text" name="nombre" />
